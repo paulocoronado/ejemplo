@@ -1,2 +1,2 @@
 # ejemplo
-Laboratorio 1: Ejemplo
+Laboratorio 1: Ejemplo cualquier cosa
